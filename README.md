@@ -1,4 +1,4 @@
-<h1>Hi, I'm Archelide, an <a href="www.linkedin.com/in/archelide-pierre-jeune-13597b29a">IT Professional</a>☺</h1>
+<h1>Hi, I'm Archelide, an <a href="https://www.linkedin.com/in/archelide-pierre-jeune">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/archelide-pierre-jeune-13597b29a
+[linkedin]:https://www.linkedin.com/in/archelide-pierre-jeune
