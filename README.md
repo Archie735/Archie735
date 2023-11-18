@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Archie735/Active-Directory-AZURE-/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Archie735/NSG-and-Inspecting-Protocols)
+  - [How to Create a Windows 11 Virtual Machine](https://github.com/Archie735/How-to-Create-a-Windows-11-Virtual-Machine/blob/main/README.md)
+
 
 <h2>🤳Connect with me:</h2>
 
