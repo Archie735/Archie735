@@ -5,6 +5,7 @@
 
 - <b>Microsoft Azure</b>
 
+  - [How to Create a Resource Group and Storage Account](https://github.com/Archie735/resource-group-storage-container)
   - [How to Create a Windows 11 Virtual Machine](https://github.com/Archie735/How-to-Create-a-Windows-11-Virtual-Machine/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Archie735/NSG-and-Inspecting-Protocols)
   - [Active Directory Azure Part 1](https://github.com/Archie735/Active-Directory-AZURE-Part-1)
