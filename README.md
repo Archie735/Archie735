@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>osTicket</b>
+
+  - [osTicket Prerequisites and Installation](https://github.com/Archie735/osTicket-Prerequisite-and-Installation)
+  - [osTicket Post Installation Configuration](https://github.com/Archie735/osTicket-Post-Install-Configuration-/tree/main)
 
 - <b>Microsoft Azure</b>
 
