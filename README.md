@@ -6,6 +6,7 @@
 
   - [osTicket Prerequisites and Installation](https://github.com/Archie735/osTicket-Prerequisite-and-Installation)
   - [osTicket Post Installation Configuration](https://github.com/Archie735/osTicket-Post-Install-Configuration-/tree/main)
+  - [osTicket Lifecycle](https://github.com/Archie735/osTicket-Lifecycle)
 
 - <b>Microsoft Azure</b>
 
